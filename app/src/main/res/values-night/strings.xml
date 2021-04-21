@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NDS App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total_qty_of_desilting_done_today">Total Qty of Desilting done today <font fgcolor="red">*</font></string>
+    <string name="capture_photo">Capture Photo <font fgcolor="red">*</font></string>
+    <string name="status">Status <font fgcolor="red">*</font></string>
+    <string name="capture_location">Capture Location <font fgcolor="red">*</font></string>
+    <string name="date">Date</string>
+    <string name="todo">TODO</string>
+    <string name="date_amp_time"><![CDATA[Date & Time]]></string>
+    <string name="total_length_completed_today">Total Length completed today <font fgcolor="red">*</font></string>
+    <string name="total_width_completed_today">Total Width completed today <font fgcolor="red">*</font></string>
+    <string name="total_depth_completed_today">Total Depth completed today <font fgcolor="red">*</font></string>
+</resources>
